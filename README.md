@@ -1,4 +1,4 @@
-# Retail Sales Analytics Project using Microsoft Fabric
+# Retail Sales Analytics using Microsoft Fabric
 
 ## Project Overview
 
