@@ -18,7 +18,6 @@ CSV Dataset → Lakehouse → Data Pipeline → Warehouse → Semantic Model →
 * SQL
 * Power BI
 * Semantic Models
-* Notebooks (Python)
 
 ## Project Workflow
 
